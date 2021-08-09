@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "307876702674",
+    "firebase_url": "https://speed-app-d1aa4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "speed-app-d1aa4",
+    "storage_bucket": "speed-app-d1aa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307876702674:android:37b3e2382fb4980230400b",
+        "android_client_info": {
+          "package_name": "com.example.test_speed_check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307876702674-n6qlurrc5b9bgjte6ocd3ok0vri4f0qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF8jNQBNKpNF3C7svCIIGDmhgMbD59LSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307876702674-n6qlurrc5b9bgjte6ocd3ok0vri4f0qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
